@@ -1,0 +1,10 @@
+{
+    "name": "t0x27108/feedback",
+    "description": "Test work",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1"
+    }
+}
